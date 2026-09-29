@@ -23,3 +23,7 @@ This repository contains coursework and UX research exploring how small AI filmm
 - `Week3-JourneyMap/` — Empathy maps, user journey maps, and current-state workflow
 
 Materials are primarily in Chinese, with some English documents, images, and PDF references.
+
+## AI Usage Disclosure
+
+Main Tool: ChatGPT 6 Luna, primarily used for information organization, text translation, and the creation of certain Figma charts.
