@@ -6,7 +6,7 @@
 - **情境（Scenario）：** Lucas 收到分阶段的 art treatment 和镜头分工后，为一个 shot 准备项目资料、casting 和 still，生成视频候选，接收 Frame 评审并修改。
 - **目标（Goal）：** 交付 art director 批准、剪辑师可继续使用的 shot，同时保留足够的生成上下文，以便需要时回溯和修改。
 - **预期（Expectations）：** 项目背景和 shot 要求可复用；stills 与视频候选能追溯到来源、prompt、模式和参数；收到评审意见后能定位要修改的环节。
-- **旅程范围：** 从收到本批任务与 art treatment 开始，到镜头通过评审并交接，或根据反馈回到相应环节继续修改。
+- **旅程范围：** 从收到本批任务与 art treatment 开始，到镜头通过评审并交接，或根据反馈回到相应环节继续修改。**本任务和Henry的Journey Map相比更加只聚焦在视频和图片生成的环节上，相对而言更加聚焦。**
 
 本图参照 Nielsen Norman Group 的 [Journey Mapping 101](https://www.nngroup.com/articles/journey-mapping-101/) 组织：一个具体 actor 与情境，配合高层阶段中的行动、想法/需求、情绪和改进机会。阶段归纳 Lucas 的整个镜头制作经历，不是每一次点击或生成操作的逐步日志。访谈内容由采访者复述；表格中的想法是研究者归纳的问题，不是逐字引语。
 
